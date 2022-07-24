@@ -10,7 +10,7 @@ body{font-family: 'Nanum Gothic', sans-serif;font-size:16px; color: #333; line-h
 
 header{width:100%;height: 90px;background:#fff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);position:relative; }
 
-.innerHeader .util ul {width:218px;height: 100%; float:left; line-height:90px; margin-left:2%; }
+.innerHeader .util ul {width:218px;height: 100%; float:left; line-height:90px; margin-left:2%; margin-top: 12px; }
 .innerHeader .util ul li{float:left; padding:0 15px;}
 .innerHeader .logo{width:270px; line-height:90px; position:absolute;left:50%; transform:translateX(-50%);}
 .innerHeader .logo a{display:block; width:100%;height:100%}
