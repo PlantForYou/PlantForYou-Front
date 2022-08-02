@@ -1,0 +1,48 @@
+.big_box{
+    align-items: center;
+    background-color: azure;
+    width: 100%;
+    height: 100%;
+}
+.back{
+    width:55px;
+    height: 30px;
+    margin: 10px 0 0 780px;
+    border: 0;
+    outline: none;
+    border-radius: 100px;
+    box-shadow: 1px 1px 1px rgb(109, 109, 109), -1px -1px 1px rgb(237, 237, 237);
+    transition: 0.3s;
+    background-color: rgb(229, 241, 241);
+    position: fixed;
+}
+.back:hover {
+    box-shadow: -1px -1px 1px rgb(172, 172, 172), 1px 1px 1px rgb(237, 237, 237);
+    transition: 0.3s;
+  }
+.type{
+    font-family: 'Tiro Tamil', serif;
+    font-size: 120px;
+    text-align: center;
+    color: rgb(159, 171, 184);
+    padding-top: 90px;
+}
+.ko_type{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(98, 107, 116);
+    margin-top: 20px;
+    font-family: 'Nanum Myeongjo', serif;
+}
+.ko_type2{
+    margin-left:100px;
+    padding-top: 25px;
+    width: 650px;
+    font-size: 21px;
+    font-weight: 700;
+    line-height:40px ;
+    text-align: center;
+    color: rgb(36, 39, 43);
+    margin-top: 20px;
+    font-family: 'Nanum Myeongjo', serif;
+}
